@@ -16,8 +16,8 @@ var counter = new Vue({
             { cntr:"num 5" },
             { cntr:"num 6" },
             { cntr:"num 7" },
-            { cntr:"V, W, X" },
-            { cntr:"Y, Z" },
+            { cntr:"num 8" },
+            { cntr:"num 9" },
         ]
     }
   });
